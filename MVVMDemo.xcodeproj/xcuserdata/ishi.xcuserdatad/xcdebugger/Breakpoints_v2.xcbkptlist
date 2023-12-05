@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D65A8544-EE96-40E1-9EDF-403C52CEE631"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDC86C23-F00C-4BAA-B154-F26D9FB6D13F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "initViewModel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDC86C23-F00C-4BAA-B154-F26D9FB6D13F - 1475847d7c94a6ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in MVVMDemo.ViewController.initViewModel() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "EDC86C23-F00C-4BAA-B154-F26D9FB6D13F - a4b9787fa442634"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #3 () -&gt; () in MVVMDemo.ViewController.initViewModel() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B109A97-A02F-4A0B-B16E-9718A9D7F4E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "initViewModel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B109A97-A02F-4A0B-B16E-9718A9D7F4E5 - bfa49bbfcaddc0ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in MVVMDemo.ViewController.initViewModel() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "6B109A97-A02F-4A0B-B16E-9718A9D7F4E5 - 5c7d6f2839f6ea50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #4 () -&gt; () in MVVMDemo.ViewController.initViewModel() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "6B109A97-A02F-4A0B-B16E-9718A9D7F4E5 - 5c7d6f2839f6ea50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #4 () -&gt; () in MVVMDemo.ViewController.initViewModel() -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5FC314A-9999-46CA-8F72-EFBBA824B7A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMDemo/Network/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getArticle(url:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5FC314A-9999-46CA-8F72-EFBBA824B7A0 - d7845308bdd56a6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.Webservice.getArticle(url: Foundation.URL, callback: (Swift.Array&lt;MVVMDemo.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/Network/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "E5FC314A-9999-46CA-8F72-EFBBA824B7A0 - d7845308bdd56a6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.Webservice.getArticle(url: Foundation.URL, callback: (Swift.Array&lt;MVVMDemo.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/Network/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "E5FC314A-9999-46CA-8F72-EFBBA824B7A0 - 6de5b626e11bac73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMDemo.Webservice.getArticle(url: Foundation.URL, callback: (Swift.Array&lt;MVVMDemo.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/Network/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E5FC314A-9999-46CA-8F72-EFBBA824B7A0 - e1cfe3e34bbab66a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.Webservice.getArticle(url: Foundation.URL, completionHandler: (Swift.Array&lt;MVVMDemo.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/Network/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "E5FC314A-9999-46CA-8F72-EFBBA824B7A0 - e99c49941ab2c853"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMDemo.Webservice.getArticle(url: Foundation.URL, completionHandler: (Swift.Array&lt;MVVMDemo.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/Network/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "E5FC314A-9999-46CA-8F72-EFBBA824B7A0 - 30db4addbaef3547"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.Webservice.getArticle(url: Foundation.URL, completionHandler: (Swift.Bool, Swift.Array&lt;MVVMDemo.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/Network/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "E5FC314A-9999-46CA-8F72-EFBBA824B7A0 - 61a85509168f1e1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMDemo.Webservice.getArticle(url: Foundation.URL, completionHandler: (Swift.Bool, Swift.Array&lt;MVVMDemo.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/Network/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "E5FC314A-9999-46CA-8F72-EFBBA824B7A0 - 61a85509168f1e1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMDemo.Webservice.getArticle(url: Foundation.URL, completionHandler: (Swift.Bool, Swift.Array&lt;MVVMDemo.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/Network/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA9F30F3-8C38-4622-9AF0-F9598B10D352"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMDemo/Model/Login.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init?(dictionary:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA9F30F3-8C38-4622-9AF0-F9598B10D352 - eff7d60d08aca65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.login.init(dictionary: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;MVVMDemo.login&gt;"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/Model/Login.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "FA9F30F3-8C38-4622-9AF0-F9598B10D352 - eff7d60d08aca65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.login.init(dictionary: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;MVVMDemo.login&gt;"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/Model/Login.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "FA9F30F3-8C38-4622-9AF0-F9598B10D352 - 359dd006c58fba44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMDemo.Login.init(dictionary: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;MVVMDemo.Login&gt;"
+                  moduleName = "MVVMDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ishi/Desktop/MVVMDemo/MVVMDemo/Model/Login.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "736">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FF50790-A42E-4A7E-A968-C043D0EEB1EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMDemo/HomeViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getArticleData(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6C77A16-DC7C-474B-B0F9-9BED8C71E914"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMDemo/HomeViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getArticleData(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BBD4237-6EF5-4FA9-A91D-8D4FFFD28E87"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMDemo/HomeViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getArticleData(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
